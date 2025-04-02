@@ -75,9 +75,7 @@ pie
 3. اختر **Pages** من القائمة الجانبية  
 4. في قسم **Source**، حدد الفرع `main` ثم اضغط "Save"  
 5. سيتم إنشاء رابط مباشر للموقع، يمكنك الوصول إليه عبر:  
-   ```
-   https://kl0l69.github.io/arsinek-portfolio/
-   ```
+   [ https://kl0l69.github.io/arsinek-portfolio/ ]
 
 ---
 
